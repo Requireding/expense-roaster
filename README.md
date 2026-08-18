@@ -3,17 +3,17 @@
      /             / |    --------------------
     /             /  |    Project: .... The Expense Roaster (Capstone)
    /____________ /   |    Uptime: ..... 21 years, 0 months
-   | ___________ |   |    Kernel: ..... MirAI B.Tech Student | IBM SkillBuild Mentee
+   | ___________ |   |    Kernel: ..... MirAI summer internship | IBM SkillBuild Mentee
    | |         | |   |    Location: ... Greater Noida, Uttar Pradesh, India
    | | >_      | |   |    Tech Stack: . Streamlit, Pandas, Gemini 2.5 API
    | |_________| |  /     Focus: ...... FinTech, Data Pipelines, AI Prompting
-   |_____________| /      Live App: ... [LIVE_APP_LINK_HERE]
+   |_____________| /      Live App: ... https://expense-roaster-a.streamlit.app/
 
 💸 The Expense Roaster (Capstone Project)
 This repository contains the source code for my final AI Builder Track Capstone Project. It is a highly interactive dashboard that allows users to upload a CSV of their monthly expenses. The app visualizes the data using pandas and st.bar_chart, and then pipes the CSV string to the Gemini API using advanced system prompts to brutally roast the user's discretionary spending habits.
 
 🚀 Live Deployment
-You can access the live application here: [LIVE_APP_LINK_HERE]
+You can access the live application here: https://expense-roaster-a.streamlit.app/
 
 🏗️ Architecture & Technical Implementation
 Memory Management: Utilizes st.session_state to prevent API data loss upon UI re-renders.
