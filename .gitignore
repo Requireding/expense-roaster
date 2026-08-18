@@ -1,0 +1,20 @@
+# Security (CRITICAL: Keeps your Gemini API Key private)
+.env
+
+# Streamlit specific
+.streamlit/
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+Thumbs.db
