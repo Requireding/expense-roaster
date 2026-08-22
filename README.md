@@ -3,7 +3,7 @@
      /             / |    --------------------
     /             /  |    Project: .... The Expense Roaster (Capstone)
    /____________ /   |    Uptime: ..... 21 years, 0 months
-   | ___________ |   |    Kernel: ..... MirAI summer internship | IBM SkillBuild Mentee
+   | ___________ |   |  
    | |         | |   |    Location: ... Greater Noida, Uttar Pradesh, India
    | | >_      | |   |    Tech Stack: . Streamlit, Pandas, Gemini 2.5 API
    | |_________| |  /     Focus: ...... FinTech, Data Pipelines, AI Prompting
